@@ -44,9 +44,6 @@ def until_iterator(number_of_times)
     puts phrase
     counter += 1
   end
-  # code your solution here using the "until" keyword
-  # hint: use a counter to tell the until loop when to stop!
-
 end
 
 def for_iterator(number_of_times)
