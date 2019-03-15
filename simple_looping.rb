@@ -21,7 +21,7 @@ end
   #  phrase and break when the counter hits the appropriate number...
 
 def times_iterator(number_of_times)
-  number_of_times.time do
+  number_of_times.times do
     puts phrase
   # code your solution here using the "times" keyword
   phrase = "Welcome to Flatiron School's Web Development Course!"
